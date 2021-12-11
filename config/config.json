@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x487408FaB37E49e810198E9ad6C0870b2108cc42",
+  "OWNER_ADDRESS": "0xA0b4ea9FC7DcA8a6ff8b7B5364726198b5D42D80",
+  "SCAN_LINK": "https://etherscan.io/address/0x487408FaB37E49e810198E9ad6C0870b2108cc42",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ButoHead",
+  "SYMBOL": "BH",
+  "MAX_SUPPLY": 2099,
+  "WEI_COST": 100000000000000000,
+  "COST1": 60000000000000000,
+  "COST2": 0,
+  "DISPLAY_COST": 0.035,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/butohead",
+  "SHOW_BACKGROUND": true
+}
